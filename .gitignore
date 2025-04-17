@@ -1,0 +1,7 @@
+config.py
+venv
+redis-configmap.yaml
+redis-deployment.yaml
+redis-pod.yaml
+commands.md
+pycache

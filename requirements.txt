@@ -1,0 +1,10 @@
+# requirements for redisvl-langchain wrapper
+langchain_redis
+langchain_core
+langchain_huggingface
+langchain_openai
+
+# requirements for direct redisvl python library
+redis==5.2.1
+redisvl==0.3.7
+openai
